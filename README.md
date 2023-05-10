@@ -1,7 +1,7 @@
 ## <h1>To-do List</h1>
 <h2>Projeto desenvolvido para praticar as ferramentas de HTML5, CSS3 e JavaScript.</h2>
 
-<img align="center" alt="To-do List" src="https://i.postimg.cc/nVTCG596/projeto-to-do-list.png">
+<img align="center" alt="To-do List" src="[https://i.postimg.cc/nVTCG596/projeto-to-do-list.png](https://i.postimg.cc/1XV7Dt8V/projeto-to-do-list.png)">
 
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/to-do-list/)
 
